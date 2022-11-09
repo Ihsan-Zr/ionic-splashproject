@@ -1,0 +1,7 @@
+{
+  "name": "splashproject",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
